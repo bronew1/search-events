@@ -1,4 +1,3 @@
-
 <script>
 (function () {
   console.log("🧪 GTM etiketi başarıyla yüklendi!");
